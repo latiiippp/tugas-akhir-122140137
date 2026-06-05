@@ -1,4 +1,7 @@
-# Penerapan Curriculum Learning pada IndoBERT-lite untuk Klasifikasi Sarkasme Bahasa Indonesia
+# Tugas Akhir
+- Nama: IKHSANNUDIN LATHIEF
+- NIM: 122140137
+- Judul: PENERAPAN TEKNIK CURRICULUM LEARNING PADA PELATIHAN MODEL INDOBERT-LITE UNTUK KLASIFIKASI SARKASME DALAM TEKS NATURAL BAHASA INDONESIA
 
 Repository ini berisi source code yang digunakan dalam penelitian tugas akhir berjudul **“Penerapan Teknik Curriculum Learning pada Pelatihan Model IndoBERT-lite untuk Klasifikasi Sarkasme dalam Teks Natural Bahasa Indonesia”**. Penelitian ini berfokus pada klasifikasi biner teks sarkasme dan nonsarkasme berbahasa Indonesia menggunakan model **IndoBERT-lite Base**.
 
