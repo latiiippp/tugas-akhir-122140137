@@ -3,7 +3,7 @@
 - NIM: 122140137
 - Judul: PENERAPAN TEKNIK CURRICULUM LEARNING PADA PELATIHAN MODEL INDOBERT-LITE UNTUK KLASIFIKASI SARKASME DALAM TEKS NATURAL BAHASA INDONESIA
 
-Repository ini berisi source code yang digunakan dalam penelitian tugas akhir berjudul **“Penerapan Teknik Curriculum Learning pada Pelatihan Model IndoBERT-lite untuk Klasifikasi Sarkasme dalam Teks Natural Bahasa Indonesia”**. Penelitian ini berfokus pada klasifikasi biner teks sarkasme dan nonsarkasme berbahasa Indonesia menggunakan model **IndoBERT-lite Base**.
+Repository ini berisi source code yang digunakan dalam penelitian. Penelitian ini berfokus pada klasifikasi biner teks sarkasme dan nonsarkasme berbahasa Indonesia menggunakan model **IndoBERT-lite Base**.
 
 Dataset yang digunakan berasal dari **IdSarcasm**, yaitu benchmark dataset untuk deteksi sarkasme bahasa Indonesia yang terdiri dari data **Reddit Indonesia Sarcastic** dan **Twitter Indonesia Sarcastic**. Pada penelitian ini, data Reddit digunakan sebagai data utama untuk proses pelatihan, validasi, dan pengujian model. Sementara itu, data Twitter digunakan untuk evaluasi lintas domain serta eksperimen tambahan berupa fine-tuning lanjutan.
 
@@ -17,7 +17,7 @@ Repository ini disediakan sebagai dokumentasi pendukung penelitian agar proses i
 
 Dataset yang digunakan dalam penelitian ini berasal dari IdSarcasm. Dataset tidak disertakan secara langsung dalam repository ini. Untuk menggunakan source code, dataset dapat diperoleh melalui sumber resmi berikut:
 
-* Link dataset: [masukkan link dataset]
+* Link dataset: [IdSarcasm](https://github.com/w11wo/id_sarcasm)
 
 ## Model
 
